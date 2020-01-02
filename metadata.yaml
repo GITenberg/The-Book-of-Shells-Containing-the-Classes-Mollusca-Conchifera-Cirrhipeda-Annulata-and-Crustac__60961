@@ -1,5 +1,8 @@
 _repo: The-Book-of-Shells-Containing-the-Classes-Mollusca-Conchifera-Cirrhipeda-Annulata-and-Crustac__60961
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60961-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60961#The-Book-of-Shells-Containing-the-Classes-Mollusca-Conchifera-Cirrhipeda-Annulata-and-Crustac_
 gutenberg_issued: '2019-12-18'
 gutenberg_type: Text
 identifiers:
